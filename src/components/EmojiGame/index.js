@@ -10,8 +10,6 @@ const shuffledEmojisList = () => {
 
 */
 
-// Write your code here.
-
 import {Component} from 'react'
 
 import EmojiCard from '../EmojiCard'
